@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CSharpUsersAPI.Fronteiras\CSharpUsersAPI.Fronteiras.csproj" />
+    <ProjectReference Include="..\CSharpUsersAPI.Repositorios\CSharpUsersAPI.Repositorios.csproj" />
+    <ProjectReference Include="..\CSharpUsersAPI.Utils\CSharpUsersAPI.Utils.csproj" />
+  </ItemGroup>
+
+</Project>
